@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git is a great tool.
 Git is so good.
+Git is powerful.
