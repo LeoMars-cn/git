@@ -6,3 +6,5 @@ Git is so good.
 Git is powerful.
 Git is wonderful.
 good
+bad
+great
