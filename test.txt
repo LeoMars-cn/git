@@ -4,6 +4,4 @@ Git has a mutable index called stage.
 Git is a great tool.
 Git is so good.
 Git is powerful.
-Git is easy to use.
-Git is the best!
-Git is the most wonderful thing that ever existed!
+Git is wonderful.
