@@ -1,5 +1,7 @@
 import time
 
+
+# Decorator
 def logTime(func):
     def wrapper(self):
         st = time.time()
